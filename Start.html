@@ -2,12 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Coding Project</title>
+    <title>Safir's Coding Project</title>
 </head>
 <body>
-    <h1 style="font-family: Arial, sans-serif; color: #333;">My Coding Project</h1>
-    <button style="background-color: red; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    <h1 style="font-family: Arial, sans-serif; color: #333;">
+        Safir's Coding Project</h1>
+    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
         Click Me
     </button>
+    <script>
+        const button = document.querySelector('button');
+        button.addEventListener('click', () => {
+            alert('Hello World!');
+        });
+    </script>
 </body>
 </html>

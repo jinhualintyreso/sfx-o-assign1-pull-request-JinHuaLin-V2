@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# sfx-o-assign1-pull-request 
-=======
 # sfx-o-assign1-pull-request
 Install Git
 Install a Git Client of your choice
@@ -13,4 +10,3 @@ Commit
 Push your branch
 Create a pull request <your branch> => <main>
 Done!
->>>>>>> main

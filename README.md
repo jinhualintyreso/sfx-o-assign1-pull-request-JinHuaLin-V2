@@ -16,6 +16,6 @@
 
 8. Push your branch
 
-9. Create a pull request <your branch> => <main>
+9. Create a pull request \<your branch\> => \<main\>
 
 Done!
